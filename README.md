@@ -75,7 +75,7 @@ https://www.youtube.com/watch?v=BXYqeTs5RIE
                                                                                                      
                                                                                                      
                                                                                                   
-# ANTIVIRU AWARENESS
+# ANTIVIRUS AWARENESS
   
   Please don't submit any payload samples to any antivirus sites or online forums. I will publish manual AV Scan detection scores continuously.
   
